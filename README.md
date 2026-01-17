@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Xiaoming0313883</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+# Hi there, I'm Xiaoming! 👋 🇲🇾
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoming0313883&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoming0313883" /> </p>
+I am a passionate **Artificial Intelligence** student currently pursuing my Bachelor's degree (Hons) at **Universiti Teknologi Malaysia (UTM)**. I enjoy building intelligent systems and exploring the intersection of data and software development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaoming0313883" alt="xiaoming0313883" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Quick Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=Xiaoming0313883&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Xiaoming0313883?style=social)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Currently studying: **Bachelor in Artificial Intelligence (Hons)**
+- 🏢 University: **Universiti Teknologi Malaysia (UTM)**
+- 📍 Location: **Malaysia**
+- 🔭 I’m currently working on: AI/ML projects and Web Development
+- 🌱 I’m currently learning: Deep Learning and Advanced Data Structures
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoming0313883&show_icons=true&locale=en&layout=compact" alt="xiaoming0313883" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoming0313883&show_icons=true&locale=en" alt="xiaoming0313883" /></p>
+### 💻 Tech Stack & Tools
 
-![](https://nirzak-streak-stats.vercel.app/?user=xiaoming0313883&hide_border=false)<br/>
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Metrics
+
+| **Overall Stats** | **Top Languages** |
+| :---: | :---: |
+| ![Xiaoming's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Xiaoming0313883&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaoming0313883&layout=compact&theme=radical) |
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=xiaoming0313883&hide_border=false)
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/goh-sheng-kai)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:goh138014@gmail.com)
+
+---
+*“The best way to predict the future is to invent it.”* 🤖
