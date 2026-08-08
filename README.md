@@ -38,7 +38,7 @@ I am a passionate **Artificial Intelligence** student currently pursuing my Bach
 | ![Xiaoming's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Xiaoming0313883&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaoming0313883&layout=compact&theme=radical) |
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=xiaoming0313883&hide_border=false)
+![GitHub Streak]([[https://nirzak-streak-stats.vercel.app/?user=xiaoming0313883&hide_border=false](https://gitcard-studio.creativecode.com.co/api/streak?username=Xiaoming0313883&theme=tokyonight&locale=en)](https://gitcard-studio.creativecode.com.co/api/streak?username=Xiaoming0313883&theme=tokyonight&locale=en))
 
 ---
 
